@@ -1,0 +1,37 @@
+{
+	"id": "cdfefb5c-1054-c0b6-4614-f330d7453bf3",
+	"title": "Custom provider LLM requests",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "anthropic.sh",
+			"panel": 1,
+			"action": "open"
+		},
+		{
+			"path": "openai.sh",
+			"panel": 0,
+			"action": "open"
+		},
+		{
+			"path": "deepinfra.sh",
+			"panel": 0,
+			"action": "open"
+		},
+		{
+			"path": "gemini.sh",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-cell-tree"
+}
